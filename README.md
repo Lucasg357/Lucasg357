@@ -1,6 +1,6 @@
 ## Oi, Eu sou o Lucas 👋
 
 
-- 🔭 Atualmente estudo programação 
-- 🌱 Estudando Python
+- 🔭 Atualmente curso Sistemas de Informação 
+- 🌱 Estudando C#
 -->
